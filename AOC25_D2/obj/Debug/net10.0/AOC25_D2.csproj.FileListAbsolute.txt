@@ -1,0 +1,14 @@
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\bin\Debug\net10.0\AOC25_D2.exe
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\bin\Debug\net10.0\AOC25_D2.deps.json
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\bin\Debug\net10.0\AOC25_D2.runtimeconfig.json
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\bin\Debug\net10.0\AOC25_D2.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\bin\Debug\net10.0\AOC25_D2.pdb
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.AssemblyInfoInputs.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.AssemblyInfo.cs
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.csproj.CoreCompileInputs.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\refint\AOC25_D2.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.pdb
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.genruntimeconfig.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\ref\AOC25_D2.dll
