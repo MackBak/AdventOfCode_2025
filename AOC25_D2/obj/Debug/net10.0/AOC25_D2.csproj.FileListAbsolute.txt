@@ -12,3 +12,4 @@ C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\refint\AOC25_D2.dl
 C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.pdb
 C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.genruntimeconfig.cache
 C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\ref\AOC25_D2.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC25_D2\obj\Debug\net10.0\AOC25_D2.sourcelink.json
