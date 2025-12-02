@@ -41,6 +41,7 @@ class Program
                     knobPosition += maxKnob;
                 }
             }
+            
             else if (directionList[i] == 'R')
             {
                 knobPosition = (knobPosition + stepsList[i]) % maxKnob;
