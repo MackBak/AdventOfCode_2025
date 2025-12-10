@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mackb\\RiderProjects\\AOC25\\AOC25_D2\\AOC25_D2.csproj": {}
+    "C:\\Users\\mackb\\RiderProjects\\AdventOfCode_2025\\AOC25_D2\\AOC25_D2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mackb\\RiderProjects\\AOC25\\AOC25_D2\\AOC25_D2.csproj": {
+    "C:\\Users\\mackb\\RiderProjects\\AdventOfCode_2025\\AOC25_D2\\AOC25_D2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mackb\\RiderProjects\\AOC25\\AOC25_D2\\AOC25_D2.csproj",
+        "projectUniqueName": "C:\\Users\\mackb\\RiderProjects\\AdventOfCode_2025\\AOC25_D2\\AOC25_D2.csproj",
         "projectName": "AOC25_D2",
-        "projectPath": "C:\\Users\\mackb\\RiderProjects\\AOC25\\AOC25_D2\\AOC25_D2.csproj",
+        "projectPath": "C:\\Users\\mackb\\RiderProjects\\AdventOfCode_2025\\AOC25_D2\\AOC25_D2.csproj",
         "packagesPath": "C:\\Users\\mackb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mackb\\RiderProjects\\AOC25\\AOC25_D2\\obj\\",
+        "outputPath": "C:\\Users\\mackb\\RiderProjects\\AdventOfCode_2025\\AOC25_D2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mackb\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\mackb\\.dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
