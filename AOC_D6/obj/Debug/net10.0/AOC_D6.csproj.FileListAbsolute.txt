@@ -1,0 +1,15 @@
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\bin\Debug\net10.0\AOC_D6.exe
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\bin\Debug\net10.0\AOC_D6.deps.json
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\bin\Debug\net10.0\AOC_D6.runtimeconfig.json
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\bin\Debug\net10.0\AOC_D6.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\bin\Debug\net10.0\AOC_D6.pdb
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.AssemblyInfoInputs.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.AssemblyInfo.cs
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.csproj.CoreCompileInputs.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.sourcelink.json
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\refint\AOC_D6.dll
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.pdb
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\AOC_D6.genruntimeconfig.cache
+C:\Users\mackb\RiderProjects\AOC25\AOC_D6\obj\Debug\net10.0\ref\AOC_D6.dll
