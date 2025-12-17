@@ -5,7 +5,7 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>AOC25_D2</RootNamespace>
+        <RootNamespace>ACO25_D2</RootNamespace>
     </PropertyGroup>
 
 </Project>
